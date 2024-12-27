@@ -77,7 +77,7 @@ RegisterNumber:24008491
 
 
 **RESULTS**
-Encoder 8 to 3 in dataflow model is verified.
+Encoder 8 to 3 in dataflow model is verified. 
 
 
 
